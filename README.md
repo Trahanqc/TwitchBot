@@ -1,5 +1,5 @@
 # TwitchBot
-This bot is for a Twitch streamer: Got_Me.  It is completely developped by me, Trahanqc
+This bot is for a Twitch streamer: <a href="http://twitch.tv/got_me">Got_Me</a>.  It is completely developped by me, Trahanqc
 
 # Functionnalities
 The bot currently has a lot of functionnalities
